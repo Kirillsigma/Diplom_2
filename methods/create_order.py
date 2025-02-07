@@ -2,7 +2,6 @@ import requests
 import allure
 
 from helpers.url import *
-from helpers.facker import *
 from methods.crate_user import User
 
 class Order:
